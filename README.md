@@ -1,1 +1,1 @@
-# hota-ru
+# Неофициальный репозиторий Horn of the Abyss
